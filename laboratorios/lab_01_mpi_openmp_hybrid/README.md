@@ -58,11 +58,11 @@ mpiexec -n 4 .\mpi_02_hibrido.exe
 
 **Pantallazo — 2 procesos MPI × 4 hilos:**
 
-![Ejercicio 2 con 2 procesos](img/BRAHAYANej2_2x4.png)
+![Ejercicio 2 con 2 procesos](img/BRAHAYANej2_2x4procesos.png)
 
 **Pantallazo — 4 procesos MPI × 4 hilos:**
 
-![Ejercicio 2 con 4 procesos](img/BRAHAYANej2_4x4.png)
+![Ejercicio 2 con 4 procesos](img/BRAHAYANej2_4x4procesos.png)
 
 **Respuestas a las preguntas de análisis:**
 
