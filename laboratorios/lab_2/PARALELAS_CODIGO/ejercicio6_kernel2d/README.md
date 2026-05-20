@@ -30,6 +30,14 @@ Resultado obtenido:
 2   3   4   5   6
 3   4   5   6   7
 
+## Pantallazo — resultado
+
+![Ejercicio 6 resultado](../capturas/ejercicio_6.png)
+![Ejercicio 6 Brahayan](../capturas/BRAHAYANeje6.png)
+
+---
+
+
 ## Conceptos practicados
 - `dim3` para dimensiones 2D de bloque y grilla
 - Indexación 2D: `threadIdx.x/y` y `blockIdx.x/y`

@@ -22,6 +22,7 @@ ejercicio4.exe
 ## Pantallazo — resultado
 
 ![Ejercicio 4 resultado](../capturas/ejercicio_4.png)
+![Ejercicio 4 Brahayan](../capturas/BRAHAYANeje4.png)
 
 ---
 

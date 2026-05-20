@@ -53,3 +53,21 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Ejecutables
+*.exe
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.db
+*.sqlite
+*.wsuo
+
+# VS Code
+.vscode/
+
+# Temporales
+*.tmp
+*.log

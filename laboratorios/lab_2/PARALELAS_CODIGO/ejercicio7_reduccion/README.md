@@ -22,6 +22,7 @@ ejercicio7.exe
 ## Pantallazo — resultado
 
 ![Ejercicio 7 resultado](../capturas/ejercicio_7.png)
+![Ejercicio 7 Brahayan](../capturas/BRAHAYANeje7.png)
 
 ---
 

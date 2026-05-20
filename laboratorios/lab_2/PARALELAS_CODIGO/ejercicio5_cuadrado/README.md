@@ -21,7 +21,8 @@ ejercicio6.exe
 
 ## Pantallazo — resultado
 
-![Ejercicio 6 resultado](../capturas/ejercicio_6.png)
+![Ejercicio 5 resultado](../capturas/ejercicio_5.png)
+![Ejercicio 5 Brahayan](../capturas/BRAHAYANeje5.png)
 
 ---
 

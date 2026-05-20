@@ -22,6 +22,7 @@ ejercicio2.exe
 ## Pantallazo — resultado
 
 ![Ejercicio 2 resultado](../capturas/ejercicio_2.png)
+![Ejercicio 2 Brahayan](../capturas/BRAHAYANeje2.png)
 
 ---
 

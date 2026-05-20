@@ -9,7 +9,11 @@
 | **Integrante 1** | Brahayan Aldhair Campo Sanchez — C.C. 1052379707 |
 | **Integrante 2** | Diego Gilberto Rodriguez Portilla — C.C. 1098626979 |
 
----
+## para el participante BRAHAYAN ALDHAIR CAMPO SANCHEZ
+**EL TRABAJARA EN GOOGLE COLAB**
+
+![Pruebas](../capturas/BRAHAYAN_GOOGLE-COLAB.png)
+![Pruebas](../capturas/BRAHAYAN_GOOGLE-COLAB_1.png)
 
 ## Ejercicio 1 — Hola GPU: Mi primer programa CUDA
 
@@ -45,6 +49,7 @@ Verificacion de datos:
 
 **Evidencia:**  
 ![Ejercicio 1](../capturas/ejercicio_1.png)
+![Ejercicio 1 Brahayan](../capturas/BRAHAYANeje1.png)
 
 ---
 
