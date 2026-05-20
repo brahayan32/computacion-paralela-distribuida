@@ -188,3 +188,4 @@ mpiexec -n 4 .\mpi_04_speedup.exe
 5. Se observó que usar más procesos o más hilos no siempre mejora el rendimiento, ya que depende también de la capacidad del computador y del overhead generado.
 
 6. Finalmente, el laboratorio ayudó a comprender mejor conceptos importantes de programación concurrente y distribuida como procesos, hilos, speedup y comunicación paralela.
+
