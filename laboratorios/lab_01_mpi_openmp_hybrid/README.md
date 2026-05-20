@@ -174,9 +174,6 @@ mpiexec -n 4 .\mpi_04_speedup.exe
 
 ## Conclusiones
 
-## Conclusiones
-## Conclusiones
-
 1. En este laboratorio aprendimos a usar MPI para trabajar con varios procesos al mismo tiempo y entender cómo se comunican entre sí.
 
 2. También comprendimos cómo funciona OpenMP usando varios hilos dentro de un mismo proceso para realizar tareas en paralelo.
