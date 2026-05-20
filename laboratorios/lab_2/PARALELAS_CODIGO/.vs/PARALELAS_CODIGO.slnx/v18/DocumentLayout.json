@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\capturas\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:capturas\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio7_reduccion\\ejercicio7_reduccion.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ejercicio7_reduccion\\ejercicio7_reduccion.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nuevo archivo",
+              "DocumentMoniker": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\capturas\\Nuevo archivo",
+              "RelativeDocumentMoniker": "capturas\\Nuevo archivo",
+              "ToolTip": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\capturas\\Nuevo archivo",
+              "RelativeToolTip": "capturas\\Nuevo archivo",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-13T18:02:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejercicio7_reduccion.cu",
+              "DocumentMoniker": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio7_reduccion\\ejercicio7_reduccion.cu",
+              "RelativeDocumentMoniker": "ejercicio7_reduccion\\ejercicio7_reduccion.cu",
+              "ToolTip": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio7_reduccion\\ejercicio7_reduccion.cu",
+              "RelativeToolTip": "ejercicio7_reduccion\\ejercicio7_reduccion.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-13T17:41:45.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio1_hola_gpu.cu",
+              "DocumentMoniker": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu",
+              "RelativeDocumentMoniker": "ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu",
+              "ToolTip": "C:\\Users\\Diego\\Downloads\\PARALELAS_CODIGO\\ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu",
+              "RelativeToolTip": "ejercicio1_hola_gpu\\ejercicio1_hola_gpu.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-13T17:12:43.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
