@@ -174,4 +174,17 @@ mpiexec -n 4 .\mpi_04_speedup.exe
 
 ## Conclusiones
 
-**Añadir minimo 4-5** conclusiones.
+## Conclusiones
+## Conclusiones
+
+1. En este laboratorio aprendimos a usar MPI para trabajar con varios procesos al mismo tiempo y entender cómo se comunican entre sí.
+
+2. También comprendimos cómo funciona OpenMP usando varios hilos dentro de un mismo proceso para realizar tareas en paralelo.
+
+3. Se logró combinar MPI y OpenMP en un modelo híbrido, permitiendo aprovechar mejor el paralelismo en el programa.
+
+4. Con funciones como `MPI_Scatter` y `MPI_Reduce` fue posible dividir el trabajo entre procesos y luego unir los resultados correctamente.
+
+5. Se observó que usar más procesos o más hilos no siempre mejora el rendimiento, ya que depende también de la capacidad del computador y del overhead generado.
+
+6. Finalmente, el laboratorio ayudó a comprender mejor conceptos importantes de programación concurrente y distribuida como procesos, hilos, speedup y comunicación paralela.
